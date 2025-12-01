@@ -4,13 +4,13 @@ import { ProductPillar, UseCase, IndustryCard, Resource, FAQItem, ReadyOption, I
 
 export const APP_NAME = "Agentforce Industries Accelerator";
 
-export const HERO_TITLE = "Build scalable digital experiences for your Agentic Enterprise.";
-export const HERO_SUBTITLE = "Unlock speed, agility, intelligence, and at scale compliance by extending pre-built industry workflows with domain-specific automation, complex logic orchestration, and a secure environment that adapts to unique business requirements.";
+export const HERO_TITLE = "Build scalable digital experiences for your Agentic Enterprise";
+export const HERO_SUBTITLE = "Unlock speed, agility, intelligence, and at-scale compliance by extending pre-built industry workflows with domain-specific automation, complex logic orchestration, and a secure environment that adapts to unique business requirements.";
 
 export const WHAT_IS_TITLE = "What is Agentforce Industries Accelerators?";
-export const WHAT_IS_DESC = "Agentforce Industries Accelerators provide the integrated suite of solutions needed for the agentic era. The Agentforce Industries Accelerator extends the possibilities of out-of-the-box use cases, by automating industry-specific processes, enabling complex business logic, and a secure execution environment that elevate agents, fast—enabling you to bypass custom development and immediately deploy compliant, context-aware digital experiences.";
+export const WHAT_IS_DESC = "Agentforce Industries Accelerators provide the integrated suite of solutions needed for the agentic era. The Agentforce Industries Accelerator extends the possibilities of out-of-the-box use cases by automating industry-specific processes, enabling complex business logic, and providing a secure execution environment that elevates agents, fast—enabling you to bypass custom development and immediately deploy compliant, context-aware digital experiences.";
 
-export const COMPARISON_MAIN_TITLE = "The Agentic Imperative: Bridging the gap to an agentic enterprise";
+export const COMPARISON_MAIN_TITLE = "The Agentic Imperative: Bridging the gap to an Agentic Enterprise";
 export const SOLUTIONS_TITLE = "The Solution: The Agentforce Advantage";
 export const OVERVIEW_SOLUTIONS: SolutionPoint[] = [
   {
@@ -213,7 +213,7 @@ export const INDUSTRY_CARDS: IndustryCard[] = [
   },
   {
     id: 'media',
-    title: 'Media & Ent.',
+    title: 'Media & Entertainment',
     description: 'Engage audiences with hyper-personalized content and subscription experiences.',
     iconName: 'Clapperboard',
     useCases: ['Ad Sales Management', 'Subscriber Retention', 'Content Licensing', 'Production Planning', 'Royalty Calculation']
@@ -251,7 +251,7 @@ export const INDUSTRY_CARDS: IndustryCard[] = [
 export const IMPACT_STATS: ImpactStat[] = [
   {
     value: "6x",
-    label: "Faster deployment vs custom code"
+    label: "Faster deployment vs. custom code"
   },
   {
     value: "1200+",
@@ -259,7 +259,7 @@ export const IMPACT_STATS: ImpactStat[] = [
   },
   {
     value: "13+",
-    label: "Industries Supported"
+    label: "Industries supported"
   }
 ];
 

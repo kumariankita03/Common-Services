@@ -18,8 +18,8 @@ const Overview: React.FC = () => {
         </div>
 
         {/* Architecture Image Placeholder */}
-        <div className="max-w-5xl mx-auto">
-          <div className="relative rounded-2xl overflow-hidden shadow-2xl border border-blue-100 bg-slate-50 aspect-[16/9] flex items-center justify-center group">
+        <div className="max-w-3xl mx-auto">
+          <div className="relative rounded-2xl overflow-hidden shadow-xl border border-blue-100 bg-slate-50 aspect-[16/9] flex items-center justify-center group">
             <img 
               src="https://placehold.co/1200x675/f1f5f9/032d60?text=Agentforce+Architecture+Diagram" 
               alt="Agentforce Architecture" 

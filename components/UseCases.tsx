@@ -1,4 +1,5 @@
 
+
 import React from 'react';
 import { INDUSTRY_CARDS } from '../constants';
 import { 
@@ -57,7 +58,7 @@ const UseCases: React.FC = () => {
         <div className="relative mb-10">
           <div className="text-center max-w-3xl mx-auto px-4">
             <h2 className="text-2xl md:text-3xl font-bold text-[#032D60]">
-              Agentforce Industries Accelerators extend industry use cases.
+              Agentforce Industries Accelerators extend industry use cases
             </h2>
             <p className="text-sm text-slate-500 mt-2">Explore capabilities across 13 Industry Clouds</p>
           </div>

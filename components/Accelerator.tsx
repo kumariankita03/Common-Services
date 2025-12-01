@@ -1,14 +1,15 @@
 
+
 import React from 'react';
 import { CheckCircle2 } from 'lucide-react';
 import { ACCELERATOR_TITLE, ACCELERATOR_TEXT, ACCELERATOR_CTA } from '../constants';
 
 const Accelerator: React.FC = () => {
   const benefits = [
-    "Reusable logic & assets.",
-    "Consistent framework.",
-    "Advisory-Led Quick Starts.",
-    "Proven patterns."
+    "Reusable logic & assets",
+    "Consistent framework",
+    "Advisory-Led Quick Starts",
+    "Proven patterns"
   ];
 
   return (
